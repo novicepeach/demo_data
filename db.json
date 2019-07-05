@@ -1,14 +1,1 @@
-{
-    "v": [
-					{
-									"v-id":1001,
-									"mode": "N"
-									
-					}
-	],
-	"iv": [
-					{
-									"v-id":100
-					}
-	]
-}
+{"policy": ["abc"], "addr": ["dhcp"], "acc": ["enable"], "auth": ["disable"]}
