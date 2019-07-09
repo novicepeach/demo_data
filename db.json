@@ -1,1 +1,1 @@
-{"policy": ["abc"], "addr": ["dhcp"], "acc": ["enable"], "auth": ["disable"]}
+{"sub": ["id":1, "name":"xyz"]}
